@@ -64,7 +64,11 @@ h2{
     display: flex;
     justify-content: left;
     align-items: center;
+    font-family: 'Roboto';
 
+}
+p{
+    font-family: 'Open sans';
 }
 
 .curiosidades{
